@@ -63,6 +63,7 @@ class CI_Loader {
 	public $input;
 	public $lang;
 	public $load;
+	public $loader;
 
 	// All these are set automatically. Don't mess with them.
 	/**
